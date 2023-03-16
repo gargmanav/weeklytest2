@@ -25,18 +25,18 @@ function App() {
       <h1 style={{color:'#596AFF',fontSize:'40px'}}>Our Projects</h1>
     </div>
     <div className='cardo' style={{display:'flex',justifyContent:'space-around',flexWrap:'wrap'}}>
-    <Cards img="./images/DWTC.jpg" name="DWTC"/>
-    <Cards img="./images/AtlantisThePalm.jpg" name="AtlantisThePalm"/>
-    <Cards img="./images/DxbAirport.jpg" name="Dxb Airport"/>
-    <Cards img="./images/MauiRestaurant.jpg" name="Maui Restaurant"/>
-    <Cards img="./images/Nail-paint bar.jpg" name="Nail-paint bar"/>
-    <Cards img="./images/OfficeB.jpg" name="Office"/>
-    <Cards img="./images/Offices.jpg" name="Offices"/>
-    <Cards img="./images/residentialTower.jpg" name="Residential Tower"/>
-    <Cards img="./images/Sofitel.jpg" name="Sofitel"/>
-    <Cards img="./images/THE-GYM-Dubai.png" name="THE-GYM-Dubai"/>
-    <Cards img="./images/Villa.jpg" name="Villa"/>
-    <Cards img="./images/Warehouse.jpg" name="Warehouse"/>
+    <Cards img="Images/DWTC.jpg" name="DWTC"/>
+    <Cards img="Images/AtlantisThePalm.jpg" name="AtlantisThePalm"/>
+    <Cards img="Images/DxbAirport.jpg" name="Dxb Airport"/>
+    <Cards img="Images/MauiRestaurant.jpg" name="Maui Restaurant"/>
+    <Cards img="Images/Nail-paint bar.jpg" name="Nail-paint bar"/>
+    <Cards img="Images/OfficeB.jpg" name="Office"/>
+    <Cards img="Images/Offices.jpg" name="Offices"/>
+    <Cards img="Images/residentialTower.jpg" name="Residential Tower"/>
+    <Cards img="Images/Sofitel.jpg" name="Sofitel"/>
+    <Cards img="Images/THE-GYM-Dubai.png" name="THE-GYM-Dubai"/>
+    <Cards img="Images/Villa.jpg" name="Villa"/>
+    <Cards img="Images/Warehouse.jpg" name="Warehouse"/>
     </div>
     <div className='footerbottom'>
       <Fouter/>
