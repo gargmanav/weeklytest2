@@ -11,7 +11,7 @@ function Fouter() {
                 <li>About Us</li>
                 <li>Copyright</li>
             </ol>
-            <img src='images/logowhite.png' alt='picto' style={{width:'100px',height:'60px',marginLeft:'30px',marginTop:'50px'}}></img>
+            <img src='Images/logowhite.png' alt='picto' style={{width:'100px',height:'60px',marginLeft:'30px',marginTop:'50px'}}></img>
         </div>
         <div className='OurInformation'>
         <h2 style={{color:'#66A7D9'}}>Our Information</h2>
@@ -21,7 +21,7 @@ function Fouter() {
                 <li>Terms & Condition</li>
                 <li>Site Map</li>
             </ol>
-            <img src='images/logowhite.png' alt='picto' style={{width:'100px',height:'60px',marginLeft:'30px',marginTop:'50px'}}></img>
+            <img src='Images/logowhite.png' alt='picto' style={{width:'100px',height:'60px',marginLeft:'30px',marginTop:'50px'}}></img>
         </div>
         <div className='MyAccount'>
         <h2 style={{color:'#66A7D9'}}>My Account</h2>
@@ -31,7 +31,7 @@ function Fouter() {
                 <li>Directories</li>
                 <li>Images & B-roll</li>
             </ol>
-            <img src='images/logowhite.png' alt='picto' style={{width:'100px',height:'60px',marginLeft:'30px',marginTop:'50px'}}></img>
+            <img src='Images/logowhite.png' alt='picto' style={{width:'100px',height:'60px',marginLeft:'30px',marginTop:'50px'}}></img>
         </div>
         <div className='contacts'>
         <h2 style={{color:'#66A7D9'}}>Contact</h2>
